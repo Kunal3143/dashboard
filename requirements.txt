@@ -13,9 +13,9 @@ jmespath==0.9.4
 pathspec==0.5.9
 pypiwin32==223
 python-dateutil==2.8.0
-pywin32==227
-PyYAML==3.13
-requests==2.20.1
+#pywin32==227
+PyYAML==5.3
+requests==2.22.0
 semantic-version==2.5.0
 termcolor==1.1.0
 urllib3==1.24.3
@@ -29,8 +29,8 @@ django-crispy-forms==1.7.2
 djangorestframework==3.10.3
 mysql==0.0.2
 mysql-connector==2.2.9
-mysql-connector-python==8.0.17
-mysqlclient==1.4.4
-Pillow==6.1.0
+mysql-connector-python==8.0.18
+mysqlclient==1.4.6
+Pillow==6.2.0
 protobuf==3.11.2
 virtualenv==16.7.9

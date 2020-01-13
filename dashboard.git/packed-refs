@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+6dbe01647d7e7f87835ec493e43c2db377d2c16f refs/heads/dependabot/pip/pillow-6.2.0
+8b398f6eb1a30e3be5ed1ab62e59e970deb417c0 refs/heads/dependabot/pip/pyyaml-5.1
+1a56054b7d5619e3b2d9944d4bac5804b90c3163 refs/heads/master
+8b398f6eb1a30e3be5ed1ab62e59e970deb417c0 refs/pull/1/head
+b65e4783236333446fc9fb352172c6d2d266378f refs/pull/1/merge
+6dbe01647d7e7f87835ec493e43c2db377d2c16f refs/pull/2/head
+5a10a5edf8f3158306191f04895c67a28aecb914 refs/pull/2/merge
