@@ -14,8 +14,13 @@ pathspec==0.5.9
 pypiwin32==223
 python-dateutil==2.8.0
 #pywin32==227
+<<<<<<< HEAD
 PyYAML==5.3
 requests==2.22.0
+=======
+PyYAML==3.13
+requests==2.20.1
+>>>>>>> b7dbcb7dbc52091f32435e5929374b7636187962
 semantic-version==2.5.0
 termcolor==1.1.0
 urllib3==1.24.3
