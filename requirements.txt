@@ -17,7 +17,7 @@ PyYAML==5.3
 requests==2.22.0
 semantic-version==2.5.0
 termcolor==1.1.0
-urllib3==1.24.3
+urllib3==1.26.5
 wcwidth==0.1.8
 asgiref==3.2.3
 Django==3.0.2
